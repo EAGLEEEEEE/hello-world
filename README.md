@@ -3,4 +3,4 @@ wcbl
 
 try something new.
 
-go
+run
